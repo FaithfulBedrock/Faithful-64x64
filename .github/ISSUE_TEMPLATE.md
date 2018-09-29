@@ -1,8 +1,8 @@
 ### Issue description
 <!---
-THIS ISSUE TRACKER IS FOR BUG/ISSUE REPORTING, NOT FOR HELP & SUPPORT. If you need help, use the links below.
-- No site link yet
-- No site link yet
+THIS ISSUE TRACKER IS FOR BUG/ISSUE REPORTING, NOT FOR HELP & SUPPORT. If you need help, please contact me on twitter.
+- https://twitter.com/MaceCRN - Porter
+- https://twitter.com/FaithfulBedrock - Official faithful bedrock twitter page
 
 Any issues requesting updates to newer versions of MCPE that we do not support yet will be treated as spam.
 
